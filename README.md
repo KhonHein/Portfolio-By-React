@@ -1,5 +1,4 @@
-# This is my portfolio webesite 
-# Use => ReactJs , HTML , CSS , js 
+# This is my portfolio
 
 this project is just testing my react skill, 
 
