@@ -57,11 +57,11 @@ export const skillsBackend = [
     },
     {
         language:"Java",
-        status:"Experienced"
+        status:"Hand on"
     },
     {
         language:"Spring",
-        status:"Experienced"
+        status:"still learning"
     },
 ]
 
@@ -76,9 +76,9 @@ export const  portfolios = [
     {
         id:2,
         image:IMG2,
-        title:"Pizza Order Sys PHP Laravel",
+        title:"Pizza Order Sys (PHP,Laravel) Fullstack",
         github:"https://github.com/KhonHein/Pizza-Order-System",
-        demo:"#",
+        demo:"https://github.com/KhonHein/Pizza-Order-System",
     },
     {
         id:3,
