@@ -16,25 +16,25 @@ const Service = () => {
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Part Time Job.
+                *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Full-time job .
+                *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Freelence.
+              *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Remote , 
+              ******* 
               </p>
             </li>
           </ul>
@@ -50,25 +50,25 @@ const Service = () => {
           <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Part Time Job.
+              *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Full-time job .
+              *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Freelence.
+              *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Remote , 
+              *******
               </p>
             </li>
           </ul>
@@ -83,25 +83,25 @@ const Service = () => {
           <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Adobe Photoshop (Cs-6)
+              *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Video Edit (premiere pro )
+              *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Freelence.
+              *******
               </p>
             </li>
             <li>
               <AiFillCheckCircle className='service_list-icon'/>
               <p>
-                Remote , 
+              ******* 
               </p>
             </li>
           </ul>

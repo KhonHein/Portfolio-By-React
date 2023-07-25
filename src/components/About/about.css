@@ -56,6 +56,17 @@
     color: var(--color-light);
 }
 
+.certificate {
+    color: var(--color-warning);
+    margin-left: 1rem;
+    padding: 0.2rem .5rem;
+    border-radius: 3px;
+    transition: var(--transition);
+}
+.certificate:hover {
+    
+    box-shadow: .1rem .1rem 1rem var(--color-warning);
+}
 
 /* ============Media Query ========== */
 

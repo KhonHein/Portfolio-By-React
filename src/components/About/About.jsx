@@ -39,7 +39,8 @@ const About = () => {
           Success is not an accident. 
           " Never give up !; At first, you didn't succceed , call it version 1.0; ". Develop the best , release the latest success version ;
           </p>
-          <a href="#contact" className='btn btn-primary'> Let's Talk </a>
+          <a href="#contact" className='btn btn'> Let's Talk </a>
+          <a href="https://khonhein.github.io/portfolio/images/project1.jpg" className=' certificate' tarGet='_blank'> view certificate </a>
         </div>
       </div>
     </section>
