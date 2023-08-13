@@ -56,11 +56,15 @@ export const skillsBackend = [
         status:"Experienced"
     },
     {
-        language:"Java",
-        status:"Hand on"
+        language:"Postgresql",
+        status:"hand on"
     },
     {
-        language:"Spring",
+        language:"Core Java",
+        status:"still learning"
+    },
+    {
+        language:"Node,Express,Next",
         status:"still learning"
     },
 ]
