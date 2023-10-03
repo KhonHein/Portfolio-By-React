@@ -16,7 +16,7 @@
     --color-bg-variant:#2c2c6c;
     --color-primary:#4db5ff;
     --color-white:#fff;
-    --color-lihgt:rgba(255,255,255,0.6);
+    --color-lihgt:rgba(229, 208, 208, 0.915);
     --color-light-blur:#a0b3b9;
     --transition: all 400ms ease;
     --color-warning:rgb(247, 219, 6);
@@ -68,6 +68,9 @@ section > h2 {
 }
 .text-light{
     color: var(--color-lihgt);
+}
+.text-warning {
+    color: var(--color-warning);
 }
 a{
     color: var(--color-primary);

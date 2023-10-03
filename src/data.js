@@ -1,13 +1,14 @@
-import pj1 from './assets/images/p4_.jpg'
+import pj1 from './assets/images/p01.png'
 import pj2 from './assets/images/p2_.jpg'
 import pj3 from './assets/images/p5_.jpg'
 
 import IMG1 from './assets/images/p1.jpg'
-import IMG2 from './assets/images/p2.jpg'
+import IMG2 from './assets/images/khon.jpg'
 import IMG3 from './assets/images/p3.jpg'
 import IMG4 from './assets/images/p4.jpg'
 import IMG5 from './assets/images/p5.jpg'
 import IMG6 from './assets/images/p6.jpg'
+import IMG7 from './assets/images/p2.jpg'
 
 
 // testimonials
@@ -18,11 +19,11 @@ import AVTR1 from './assets/images/avatar1.jpg'
 
 export const skillsFrontend = [
     {
-        language:"HTML",
+        language:"HTML-5",
         status:"Experienced"
     },
     {
-        language:"CSS",
+        language:"CSS-3",
         status:"Experienced"
     },
     {
@@ -30,7 +31,7 @@ export const skillsFrontend = [
         status:"Experienced"
     },
     {
-        language:"Bootstrap",
+        language:"Bootstrap5",
         status:"Experienced"
     },
     {
@@ -38,11 +39,19 @@ export const skillsFrontend = [
         status:"Experienced"
     },
     {
-        language:"Vue",
+        language:"Vue-3",
         status:"Experienced"
     },
     {
         language:"React",
+        status:"Experienced"
+    },
+    {
+        language:"Typescript",
+        status:"Experienced"
+    },
+    {
+        language:"Material UI",
         status:"Experienced"
     },
 ];
@@ -53,7 +62,7 @@ export const skillsBackend = [
         status:"Experienced"
     },
     {
-        language:"Laravel",
+        language:"Laravel V.^8.*",
         status:"Experienced"
     },
     {
@@ -61,25 +70,32 @@ export const skillsBackend = [
         status:"Experienced"
     },
     {
-        language:"Postgresql",
+        language:"Postgresql (prisma)",
         status:"hand on"
     },
     {
-        language:"Core Java",
+        language:"Core Java V.8",
         status:"still learning"
     },
     {
-        language:"Node,Express,Next",
-        status:"still learning"
+        language:"Node,Express,NextJs",
+        status:"hand on"
     },
 ]
 export const  projects = [
+    // {
+    //     id:1,
+    //     image:pj1,
+    //     title:"Demo SPA Vue+Lara",
+    //     github:"https://github.com/KhonHein/SPA-Sample-web",
+    //     demo:"#",
+    // },
     {
         id:1,
         image:pj1,
-        title:"Demo SPA Vue+Lara",
-        github:"https://github.com/KhonHein/SPA-Sample-web",
-        demo:"#",
+        title:"(React+Laravel) Full-Stack",
+        github:"https://github.com/KhonHein/Laravel-React-Fullstack",
+        demo:"https://github.com/KhonHein/Laravel-React-Fullstack",
     },
     {
         id:2,
@@ -100,14 +116,14 @@ export const  portfolios = [
     {
         id:1,
         image:IMG1,
-        title:"Myanmar Hta Ma Nae",
+        title:"Myanmar Hta Ma Nea",
         github:"#",
         demo:"#",
     },
     {
         id:2,
         image:IMG2,
-        title:"Record Teaching Aid",
+        title:"Summer Slice",
         github:"#",
         demo:"#",
     },
@@ -121,7 +137,7 @@ export const  portfolios = [
     {
         id:4,
         image:IMG4,
-        title:"Record Volunteer",
+        title:"EC. Batch(21/16)",
         github:"#",
         demo:"#",
     },
@@ -136,6 +152,12 @@ export const  portfolios = [
         id:6,
         image:IMG6,
         title:"Travelling V-Log",
+        github:"#",
+        demo:"#",
+    },    {
+        id:6,
+        image:IMG7,
+        title:"Student Life",
         github:"#",
         demo:"#",
     },

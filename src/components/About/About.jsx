@@ -30,7 +30,7 @@ const About = () => {
             <article className='about_card'>
               <GiMountedKnight className='about_icon'/>
               <h5>I love </h5>
-              <small>adventure ! </small>
+              <small>Eating ! </small>
             </article>
           </div>
 
