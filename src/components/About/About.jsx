@@ -35,9 +35,7 @@ const About = () => {
           </div>
 
           <p>
-          All people smile in the same language. Smiles are free but they are worth a lot.
-          Success is not an accident. 
-          " Never give up !; At first, you didn't succceed , call it version 1.0; ". Develop the best , release the latest success version ;
+          As a full-stack developer, I leverage the latest technologies to transform complex ideas into seamless web experiences. Let's collaborate and bring your cutting-edge digital vision to life.
           </p>
           <a href="#contact" className='btn btn'> Let's Talk </a>
           <a href="https://khonhein.github.io/portfolio/images/project1.jpg" className=' certificate' tarGet='_blank'> view certificate </a>

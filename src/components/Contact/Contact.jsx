@@ -39,7 +39,7 @@ const Contact = () => {
           <h4>Email</h4>
           <h6>www.thmarazewa@gmail.com</h6>
           <h5>khonhein.dev@gmail.com</h5>
-          <a href="mailto:www.thmarazewa@gmail.com" tarGet='_blank'> Send Messages </a>
+          <a href="mailto:khonhein.dev@gmail.com" tarGet='_blank'> Send Messages </a>
           </article>
           <article className="contact_option">
             <PiFacebookLogoBold className='contact_opton-icon' />

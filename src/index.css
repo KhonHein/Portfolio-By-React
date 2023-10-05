@@ -72,6 +72,7 @@ section > h2 {
 .text-warning {
     color: var(--color-warning);
 }
+
 a{
     color: var(--color-primary);
     transition: var(--transition);

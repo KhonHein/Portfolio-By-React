@@ -15,7 +15,7 @@ const footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
       <div className="footer_socials">
-        <a target='_blank' href="https://www.facebook.com/sai.bwathmara.9/"><BsFacebook/></a>
+        <a tarGet='_blank' href="https://www.facebook.com/sai.bwathmara.9/"><BsFacebook/></a>
         <a><BsInstagram/></a>
         <a><BsTwitter/></a>
       </div>
